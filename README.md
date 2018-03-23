@@ -7,3 +7,5 @@ _не выкладыватйе на гитхаб токен бота!_
 - добавление новой функции бота +1
 - отладка существубщий функции +0.1
 
+![alt text](https://github.com/mtkp-tmp/telebot_from_61/blob/master/2010_11_18_mtkp1.jpg "big brother is watching you!")
+

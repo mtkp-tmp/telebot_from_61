@@ -11,7 +11,7 @@ bot = telebot.TeleBot(config.token)
 isBars = False
 
 
-@bot.message_handler(commands=['SurdumBot', 'SB', 'bars'])
+@bot.message_handler(commands=['searchbar', 'sb', 'bars'])
 def hello(message):
     bot.send_message(message.chat.id,
                      'SearchBarBot by @adabsurdumus\n' +

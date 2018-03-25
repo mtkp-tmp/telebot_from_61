@@ -37,7 +37,7 @@ def loc(message):
 
 
 @bot.message_handler(content_types=['location'])
-def getNearestBar(message: telebot.types.Message):
+def bar(message: telebot.types.Message):
     # чтобы бот не реагировал на просто координаты в чате
     # и не конфликтовал с другими ботами
     # используется глобальная переменная
